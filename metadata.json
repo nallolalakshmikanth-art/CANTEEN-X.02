@@ -1,0 +1,6 @@
+{
+  "name": "Campus CanteenX Portal - Staff & Admin Dashboard",
+  "description": "Responsive dark-themed Staff and Admin portal for Campus CanteenX to manage live kitchen orders, digital token counter, menu inventory, revenue analytics, and staff assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
